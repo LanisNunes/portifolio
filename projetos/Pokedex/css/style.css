@@ -24,7 +24,7 @@ main {
     background-size: 100% 100%;
 
     width: 23rem;
-    height: 80%;
+    height: 40rem;
     text-align: center;
     position: relative;
 
@@ -33,7 +33,7 @@ main {
 main img {
     width: 6rem;
     position: absolute;
-    top: 10rem;
+    top: 14rem;
     right: 9rem;
 }
 
@@ -42,7 +42,7 @@ main img {
     color: #aaa;
     font-size: 1.6rem;
     position: absolute;
-    top: 16.5rem;
+    top: 21rem;
     left: 8rem;
 }
 
